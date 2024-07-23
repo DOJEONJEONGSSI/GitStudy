@@ -106,12 +106,16 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 
 12.이모지 추가하기
 
-[이모지검색 및 다운로드](https://emojipedeia.org)
+[이모지검색 및 다운로드] (https://emojipedia.org/)
+
+- 오늘 날씨는? 🔥
+- 나는 오늘 🧑🏻‍💻 열심히 해서 🥇
 
 13.배지 추가
 [배치 달기(언어, 기술, 개발 도구, 자격)]
 http://simpleicons.org
 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> 
 
 
 
